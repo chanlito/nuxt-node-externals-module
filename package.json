@@ -1,0 +1,24 @@
+{
+  "name": "nuxt-node-externals-module",
+  "version": "1.0.0",
+  "description": "A nuxt module to add webpack-node-externals.",
+  "author": "Chanlito Hem <chanlitohem@gmail.com>",
+  "license": "MIT",
+  "main": "index.js",
+  "keywords": [
+    "nuxt",
+    "module",
+    "webpack-node-externals"
+  ],
+  "dependencies": {
+    "webpack-node-externals": "^1.7.2"
+  },
+  "prettier": {
+    "bracketSpacing": true,
+    "printWidth": 80,
+    "semi": true,
+    "singleQuote": true,
+    "tabWidth": 2,
+    "trailingComma": "all"
+  }
+}
