@@ -5,6 +5,10 @@
   "author": "Chanlito Hem <chanlitohem@gmail.com>",
   "license": "MIT",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chanlito/nuxt-node-externals-module"
+  },
   "keywords": [
     "nuxt",
     "module",
